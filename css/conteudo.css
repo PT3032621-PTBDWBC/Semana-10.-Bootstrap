@@ -15,7 +15,7 @@ img {
 
 figure {
     display: inline-block;
-    border: 0px dotted gray;
+    border: 0px dotted ;
     margin: 20px; /* adjust as needed */
 }
 figure img {
